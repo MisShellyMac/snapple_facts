@@ -1,174 +1,57 @@
-`
-1 `,`
-A goldfish's attention span is 3 seconds. `
-`
-31 `,`
-The average human eats 8 spiders in his/her lifetime while sleeping. `
-`
-35 `,`
-Elephants only sleep 2 hours a day. `
-`
-36 `,`
-A duck's quack doesn't echo. `
-`
-70 `,`
-Caller ID is illegal in California. `
-`
-89 `,`
-The average American walks 18,000 steps a day. `
-`
-113 `,`
-The fastest recorded speed of a racehorse was over 43 mph. `
-`
-179 `,`
-The first lighthouse to use electricity was the Statue of Liberty in 1886. `
-`
-209 `,`
-The largest pumpkin ever grown weighed 1,061 lbs. `
-`
-266 `,`
-Manhattan is the only borough in New York City that doesn't have a Main Street. `
-`
-387 `,`
-A banana is a giant herb. `
-`
-399 `,`
-Manhattan was the first capital of the United States. `
-`
-662 `,`
-Philadelphia was the first capital of the United States. `
-`
-700 `,`
-Turning the faucet off while brushing your teeth can save up to 5 gallons of water. `
-`
-711 `,`
-Baking soda makes a great scouring cleanser, and it's naturally chemical-free. `
-`
-723 `,`
-The optimum depth of water in a birdbath is two and a half inches. `
-`
-738 `,`
-There are more species of fish in the Amazon river than in the Atlantic Ocean. `
-`
-739 `,`
-You transfer more germs shaking hands than kissing. `
-`
-765 `,`
-A cat has 32 muscles in each ear. `
-`
-772 `,`
-Male moose shed their antlers every winter and grow a new pair the next year. `
-`
-789 `,`
-The average woman is 5 inches shorter than the average man. `
-`
-792 `,`
-The state of Florida is bigger than England. `
-`
-800 `,`
-Most lipstick contains fish scales. `
-`
-802 `,`
-Every state except Maine, Alaska, and Hawaii is home to at least one species of venomous snake. `
-`
-805 `,`
-India has a Bill of Rights for cows. `
-`
-808 `,`
-Some violins contain 70 separate pieces of wood. `
-`
-822 `,`
-The only jointless bone in the body is in your throat. `
-`
-824 `,`
-On average a man spends about five months of his life shaving. `
-`
-826 `,`
-In the average lifetime, a person will walk the equivalent of 5 times around the equator. `
-`
-830 `,`
-The average human dream lasts only 2 to 3 seconds. `
-`
-840 `,`
-The only food that does not spoil is honey. `
-`
-850 `,`
-Hawaii is further south than Florida. `
-`
-852 `,`
-Clearwater, Florida has the highest rate of lightning strikes per capita in the U.S. `
-`
-854 `,`
-Hawaii is the only U.S. state that grows coffee. `
-`
-856 `,`
-The world's largest silver nugget (1,840 lbs) was found in 1894 near Aspen, Colorado. `
-`
-859 `,`
-George Washington took the oath of office in New York City in 1789. `
-`
-875 `,`
-Before Thomas Jefferson took office people bowed to the president, rather than shaking his hand. `
-`
-878 `,`
-Only male fireflies can fly. `
-`
-880 `,`
-A Venus flytrap can eat a whole cheeseburger. `
-`
-881 `,`
-A baby caribou can outrun its mother at 3 days old. `
-`
-885 `,`
-Vultures can fly for six hours without flapping their wings. `
-`
-891 `,`
-Pound cake got its name from the original recipe which called for a pound of butter. `
-`
-892 `,`
-The can opener was invented 48 years after the can. `
-`
-893 `,`
-Jack-O-Lanterns were originally made out of turnips. `
-`
-895 `,`
-If you shake a can of mixed nuts, the larger nuts will rise to the top. `
-`
-896 `,`
-2nd Street is the most common street name in the United States; First Street is the 6th most common. `
-`
-897 `,`
-The Mayflower only held 102 People. `
-`
-907 `,`
-Dueling is legal in Paraguay as long as both parties are registered blood donors. `
-`
-916 `,`
-The scientific term for a sneezing is sternutation. `
-`
-917 `,`
-The average lead pencil can draw a line 35 miles long or write roughly 50,000 English words. `
-`
-918 `,`
-The first lollipop was invented in Connecticut. `
-`
-921 `,`
-If you had 1 billion dollars and spent 1 thousand dollars a day, it would take you 2,749 years to spend it all. `
-`
-938 `,`
-It cost the United States Mint two cents to produce and distribute a penny in 2012. `
-`
-954 `,`
-Until its demolition in 2012, one percent of Greenland's total population lived in a single apartment building called Blok P. `
-`
-963 `,`
-The Pacific Ocean is eight inches higher than the Atlantic Ocean at the Panama Canal. `
-`
-967 `,`
-There are ten times more microbial cells than human cells in our bodies. `
-`
-973 `,`
-Within five minutes of waking, 50 percent of a dream is forgotten. Within ten minutes, 90 percent of it is forgotten. `
-`
-978 `,`
-George Washington feared being buried alive. `
+31,"The average human eats 8 spiders in his/her lifetime while sleeping."
+35,"Elephants only sleep 2 hours a day."
+36,"A duck's quack doesn't echo."
+70,"Caller ID is illegal in California."
+89,"The average American walks 18,000 steps a day."
+113,"The fastest recorded speed of a racehorse was over 43 mph."
+179,"The first lighthouse to use electricity was the Statue of Liberty in 1886."
+209,"The largest pumpkin ever grown weighed 1,061 lbs."
+266,"Manhattan is the only borough in New York City that doesn't have a Main Street."
+387,"A banana is a giant herb."
+399,"Manhattan was the first capital of the United States."
+662,"Philadelphia was the first capital of the United States."
+700,"Turning the faucet off while brushing your teeth can save up to 5 gallons of water."
+711,"Baking soda makes a great scouring cleanser, and it's naturally chemical-free."
+723,"The optimum depth of water in a birdbath is two and a half inches."
+738,"There are more species of fish in the Amazon river than in the Atlantic Ocean."
+739,"You transfer more germs shaking hands than kissing."
+765,"A cat has 32 muscles in each ear."
+772,"Male moose shed their antlers every winter and grow a new pair the next year."
+789,"The average woman is 5 inches shorter than the average man."
+792,"The state of Florida is bigger than England."
+800,"Most lipstick contains fish scales."
+802,"Every state except Maine, Alaska, and Hawaii is home to at least one species of venomous snake."
+805,"India has a Bill of Rights for cows."
+808,"Some violins contain 70 separate pieces of wood."
+822,"The only jointless bone in the body is in your throat."
+824,"On average a man spends about five months of his life shaving."
+826,"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
+830,"The average human dream lasts only 2 to 3 seconds."
+840,"The only food that does not spoil is honey."
+850,"Hawaii is further south than Florida."
+852,"Clearwater, Florida has the highest rate of lightning strikes per capita in the U.S."
+854,"Hawaii is the only U.S. state that grows coffee."
+856,"The world's largest silver nugget (1,840 lbs) was found in 1894 near Aspen, Colorado."
+859,"George Washington took the oath of office in New York City in 1789."
+875,"Before Thomas Jefferson took office people bowed to the president, rather than shaking his hand."
+878,"Only male fireflies can fly."
+880,"A Venus flytrap can eat a whole cheeseburger."
+881,"A baby caribou can outrun its mother at 3 days old."
+885,"Vultures can fly for six hours without flapping their wings."
+891,"Pound cake got its name from the original recipe which called for a pound of butter."
+892,"The can opener was invented 48 years after the can."
+893,"Jack-O-Lanterns were originally made out of turnips."
+895,"If you shake a can of mixed nuts, the larger nuts will rise to the top."
+896,"2nd Street is the most common street name in the United States; First Street is the 6th most common."
+897,"The Mayflower only held 102 People."
+907,"Dueling is legal in Paraguay as long as both parties are registered blood donors."
+916,"The scientific term for a sneezing is sternutation."
+917,"The average lead pencil can draw a line 35 miles long or write roughly 50,000 English words."
+918,"The first lollipop was invented in Connecticut."
+921,"If you had 1 billion dollars and spent 1 thousand dollars a day, it would take you 2,749 years to spend it all."
+938,"It cost the United States Mint two cents to produce and distribute a penny in 2012."
+954,"Until its demolition in 2012, one percent of Greenland's total population lived in a single apartment building called Blok P."
+963,"The Pacific Ocean is eight inches higher than the Atlantic Ocean at the Panama Canal."
+967,"There are ten times more microbial cells than human cells in our bodies."
+973,"Within five minutes of waking, 50 percent of a dream is forgotten. Within ten minutes, 90 percent of it is forgotten."
+978,"George Washington feared being buried alive."
