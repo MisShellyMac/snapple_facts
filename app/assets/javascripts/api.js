@@ -45,6 +45,8 @@ function displayResults(url)
           inner_div.append("<p class='number'>" + data[i].numberid + "</p>");
           inner_div.append("<p class='fact'>" + data[i].fact + "</p>");
 
+          bottle_cap.addClass("spin");
+
           $("#searchResults").append(bottle_cap);
         }
       }

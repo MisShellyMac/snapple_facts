@@ -58,3 +58,18 @@ body {
 .allButton {
   margin-left: 100px;
 }
+
+@keyframes spinning {
+  from {
+    opacity: 0;
+    transform: rotate(0deg) scale(0.2);
+  }
+  to {
+    opacity: 1;
+    transform: rotate(360deg) scale(1);
+  }
+}
+
+.spin {
+  -webkit-animation: spinning .75s;
+}
