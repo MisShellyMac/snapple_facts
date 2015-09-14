@@ -26,16 +26,15 @@ function displayResults(url)
       if (data === undefined)
       {
         $("#searchResults").append("Please input a number between 1 and 1031.");
-        /*
-        $("#searchResults").append("<p>You apparently have a horribly singular taste in 'good' music. Try searching for someone else and in the meantime, enjoy this Rick Roll while you think about what you've done...🐵 🙈 🙉 🙊</p><br>");
-        */
       }
-      else {
+      else
+      {
         for (var i = 0; i < data.length; i++)
         {
           var bottle_cap = $("<div class='cap'> </div>");
           var inner_div = $("<div></div>");
 
+          // these items were not produced/released by Snapple and are referred to as 'in the piggy bank' so I put that in for completness.
           if (data[i].numberid >= 498 && data[i].numberid <= 650)
           {
             inner_div = $("<div class='piggy'></div>");

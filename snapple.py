@@ -7,7 +7,7 @@ print "hello"
 BASE_URL = 'http://www.snapple.com/real-facts/list-view/'
 
 # loop over each page of facts and parse the fact number and detail
-for i in range(10, 11):
+for i in range(1, 11):
     print i
     req = urllib2.Request(BASE_URL + str(i), headers={ 'User-Agent': 'Mozilla/5.0' })
     page = urllib2.urlopen(req).read()
