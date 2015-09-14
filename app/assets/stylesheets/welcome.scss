@@ -1,3 +1,60 @@
 // Place all the styles related to the welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-color: #F7D872;
+}
+
+.cap {
+  display: inline-block;
+  vertical-align: top;
+  margin: 1px;
+  background-image: image-url("cap.png");
+  width: 298px;
+  height: 298px;
+}
+
+.piggy {
+  vertical-align: middle;
+  horizontal-align: center;
+  background-image: image-url("piggy-bank.png");
+  width: 220px;
+  height: 214px;
+}
+
+.number {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 12px;
+  font-weight: bold;
+}
+
+.fact {
+  text-align: center;
+  padding-top: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.top {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.top h1 {
+  margin-bottom: 30px;
+}
+
+.button_to {
+    display: inline;
+}
+
+.searchButton {
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+
+.allButton {
+  margin-left: 100px;
+}

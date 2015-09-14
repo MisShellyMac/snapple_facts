@@ -25,23 +25,27 @@ function displayResults(url)
 
       if (data === undefined)
       {
-        $("#searchResults").append("TODO UNDEFINED");
+        $("#searchResults").append("Please input a number between 1 and 1031.");
         /*
         $("#searchResults").append("<p>You apparently have a horribly singular taste in 'good' music. Try searching for someone else and in the meantime, enjoy this Rick Roll while you think about what you've done...🐵 🙈 🙉 🙊</p><br>");
-
-        var rickRollVideoId = "dQw4w9WgXcQ";
-
-        $("#searchResults").append(
-        "<iframe width='840' height='630' src='https://www.youtube.com/embed/" +
-        rickRollVideoId + "?autoplay=1' frameborder='0' allowfullscreen></iframe>");
         */
       }
       else {
         for (var i = 0; i < data.length; i++)
         {
-            $("#searchResults").append(
-            "<p>Fact #" + data[i].numberid + ": " + data[i].fact + "</p>");
-            console.log(data[i]);
+          var bottle_cap = $("<div class='cap'> </div>");
+          var inner_div = $("<div></div>");
+
+          if (data[i].numberid >= 498 && data[i].numberid <= 650)
+          {
+            inner_div = $("<div class='piggy'></div>");
+          }
+
+          bottle_cap.append(inner_div);
+          inner_div.append("<p class='number'>" + data[i].numberid + "</p>");
+          inner_div.append("<p class='fact'>" + data[i].fact + "</p>");
+
+          $("#searchResults").append(bottle_cap);
         }
       }
     }
