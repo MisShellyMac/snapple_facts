@@ -6,6 +6,6 @@ class WelcomeController < ApplicationController
 
   def random
     # @random = SnappleFact.sample(10)
-    @snapple_facts = SnappleFact.first
+    @snapple_facts = SnappleFact.sample(10)
   end
 end
