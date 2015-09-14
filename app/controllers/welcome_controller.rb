@@ -3,9 +3,4 @@ class WelcomeController < ApplicationController
     @snapple_facts = SnappleFact.all
     render :index
   end
-
-  def random
-    # @random = SnappleFact.sample(10)
-    @snapple_facts = SnappleFact.sample(10)
-  end
 end

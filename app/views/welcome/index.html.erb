@@ -1,40 +1,25 @@
 <h1>Snapple Facts!</h1>
-  <div class="left">
+<div class="left">
+  <label for="searchNum">
+    Snapple Fact #
+    <input type="integer" id="searchNum">
+  </label>
+  <!-- The URL and method are ignored because the click behavior
+       of the button is going to be overridden in JavaScript -->
+  <%= button_to "Search", "/search/", method: :get, class: "find fancyButton" %>
+</div>
 
-      <label for="searchNum">
-        Snapple Fact #
-        <input type="integer" id="searchNum">
-      </label>
-      <!-- The URL and method are ignored because the click behavior
-           of the button is going to be overridden in JavaScript -->
-      <%= button_to "Search", "/search/", method: :get, class: "find fancyButton" %>
-  </div>
+<div class="right">
+  <!-- The URL and method are ignored because the click behavior
+       of the button is going to be overridden in JavaScript -->
+  <%= button_to "Random Fact", "/random", method: :get, class: "random fancyButton" %>
+</div>
 
-    <div class="right">
-      <!-- The URL and method are ignored because the click behavior
-           of the button is going to be overridden in JavaScript -->
-      <%= button_to "Random Fact", "/explore/chance", method: :get, class: "random fancyButton" %>
-    </div>
+<div class="right">
+  <!-- The URL and method are ignored because the click behavior
+       of the button is going to be overridden in JavaScript -->
+  <%= button_to "Show All Facts", "/all", method: :get, class: "all fancyButton" %>
+</div>
 
-    <div class="right">
-      <!-- The URL and method are ignored because the click behavior
-           of the button is going to be overridden in JavaScript -->
-      <%= button_to "Show All Facts", "/explore/popular", method: :get, class: "all fancyButton" %>
-    </div>
-
-    <div id="searchResults" style="margin:12px">
-    </div>
-
-<h1>First, A Random Snapple Fact:</h1>
-
-<% fact = @snapple_facts.sample %>
-Fact # <%= fact.numberid %>:
-<br>
-<%= fact.fact %> <br>
-
-<h1>Now all teh factz:</h1>
-
-<% @snapple_facts.each do |snapple_fact| %>
-<%= snapple_fact.numberid %>.
-<%= snapple_fact.fact %> <br>
-<% end %>
+<div id="searchResults" style="margin:12px">
+</div>

@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  controller :snapple_facts do
+    get '/search/:fact', action: 'search'
+    get '/random' , action: 'random'
+    get '/all' , action: 'all'
+  end
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
