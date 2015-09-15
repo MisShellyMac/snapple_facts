@@ -1,6 +1,8 @@
-# snapple_facts by Michelle McCarthy
+# Snapple Facts: A Project by Michelle McCarthy
 
-## Project Baseline
+## https://snapplefacts.herokuapp.com/
+
+### Project Baseline
 
 - Anticipate spending 10-15 hours on this project over the break week.
 - Do at least an hour of thinking and research about a small, web-based project you would like to build. Focus on something you believe you can ship by the end of the week.
