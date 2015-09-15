@@ -26,5 +26,8 @@ https://github.com/MisShellyMac/snapple_facts
   - What does success look like for this project? What does _done_ mean?
   Given the time constraints, I will be happy with being able to do random, and range and all snapple facts and having some kind of animation happen.
 
+  - Deploy to Heroku:
+  https://snapplefacts.herokuapp.com/
+
 - Creat a Trello board in which you decompose the tasks and deliverables of the project.
 https://trello.com/b/hoGuOKsv/snapple-facts
